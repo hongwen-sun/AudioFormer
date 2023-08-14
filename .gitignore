@@ -150,10 +150,10 @@ dmypy.json
 /logs
 /model_config
 /notebooks
-/scripts
 /src
 /tests
 /tools
+/scripts
 requirements.txt
 setup.py
 .env
