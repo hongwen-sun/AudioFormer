@@ -7,4 +7,5 @@ Audio Transformer learns audio feature representations from discrete acoustic co
 ## MPC
 ![Fine-tune2](./files/mpc.png)
 
-代码整理中，预计2023年9月发布
+
+Code organization in progress, expected to be released in September 2023.
