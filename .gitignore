@@ -150,7 +150,7 @@ dmypy.json
 /logs
 /model_config
 /notebooks
-/script
+/scripts
 /src
 /tests
 /tools
